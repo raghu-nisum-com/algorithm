@@ -1,0 +1,30 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghu-nisum-com/algorithm.git"
+  },
+  "keywords": [
+    "algorithm",
+    "repository"
+  ],
+  "author": "Raghu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghu-nisum-com/algorithm/issues"
+  },
+  "homepage": "https://github.com/raghu-nisum-com/algorithm#readme"
+}
